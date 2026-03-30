@@ -1,0 +1,6 @@
+streamlit
+pandas
+webbrowser
+datetime
+requests
+base64

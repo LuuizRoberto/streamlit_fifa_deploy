@@ -20,7 +20,10 @@ if 'data' not in st.session_state:
 st.markdown('# FIFA23 OFICIAL DATASET ⚽')
 st.sidebar.markdown('Desenvolvido por [Luiz Reis](https://www.linkedin.com/in/luiz-roberto-costa-dos-reis-a23178187/?skipRedirect=true)')
 
-st.link_button("Acesso os dados do Relatório", 'https://www.kaggle.com/datasets/kevwesophia/fifa23-official-datasetclean-data')
+st.link_button(
+    "Acesso os dados do Relatório", 
+    'https://www.kaggle.com/datasets/kevwesophia/fifa23-official-datasetclean-data'
+)
 
 st.markdown('''
     O conjunto de dados

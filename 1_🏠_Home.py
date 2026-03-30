@@ -1,6 +1,5 @@
 import streamlit as st 
 import pandas as pd
-import webbrowser
 from  datetime import datetime as pydt
 
 st.set_page_config(

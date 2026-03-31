@@ -1,1 +1,0 @@
-print("A inclusão dessa parte do script é apenas para poder testar o clone")
